@@ -20,7 +20,7 @@ window.addEventListener("mousemove", function(event) {
 
 ctx.fillStyle = 'white';
 ctx.font = '16px Verdana';
-ctx.fillText('Lucas Silva', 0.5, 30);
+ctx.fillText('Ana Maria', 0.5, 30);
 const textCoordinates = ctx.getImageData(0, 0, 100, 100);
 
 class Particle {
