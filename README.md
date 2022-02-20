@@ -18,7 +18,7 @@ Você pode abrir o website através do link abaixo.
  
 ## Autor
 ---
-
+![img1](https://github.com/Lucasm12/Efeito-Vanilla/blob/master/img1.png)
 <a href="https://www.linkedin.com/in/lucas-marques1204/">
  <!-- <img style="border-radius: 50%;" src="" width="100px;" alt=""/> -->
  <!-- <br /> -->
